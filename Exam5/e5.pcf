@@ -1,0 +1,16 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Nov 26 20:39:26 2020
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "XLXN_24" LOCATE = SITE "P29" LEVEL 1;
+COMP "Gnd0" LOCATE = SITE "P44" LEVEL 1;
+COMP "Rain02" LOCATE = SITE "P61" LEVEL 1;
+COMP "B" LOCATE = SITE "P40" LEVEL 1;
+COMP "C" LOCATE = SITE "P35" LEVEL 1;
+COMP "D" LOCATE = SITE "P34" LEVEL 1;
+COMP "E" LOCATE = SITE "P32" LEVEL 1;
+COMP "G" LOCATE = SITE "P27" LEVEL 1;
+COMP "Cloud03" LOCATE = SITE "P59" LEVEL 1;
+SCHEMATIC END;
+

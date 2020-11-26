@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan6 -refsym c9 D:/CE62-2/Circuit/Timer/c9.sch D:/CE62-2/Circuit/Timer/c9.sym 
+sch2hdl -intstyle ise -family spartan6 -verilog c9_drc.vf -w D:/CE62-2/Circuit/Timer/c9.sch 

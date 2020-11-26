@@ -1,0 +1,1 @@
+sch2sym -intstyle ise -family spartan6 -refsym c99 D:/CE62-2/Circuit/Timer/c99.sch D:/CE62-2/Circuit/Timer/c99.sym 
